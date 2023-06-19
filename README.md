@@ -28,7 +28,7 @@ API Endpoints:
 2. Memory ownership and borrowing
 
 #### Libraries/Dependencies:
-You can use the following Rust libraries to build the project:
+The following Rust libraries are used in the project:
 - Actix-Web: A lightweight, high-performance web framework for building REST APIs.
 - Diesel: A query builder and ORM (Object Relational Mapping) for interacting with the Postgres database.
 - dotenv: For loading environment variables from a .env file.
